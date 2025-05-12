@@ -62,8 +62,9 @@ cd Janus
 
 ```bash
 pip install -e .
-This command installs the Janus package in editable mode, allowing for easy development and updates.
 ```
+
+This command installs the Janus package in editable mode, allowing for easy development and updates.
 
 ### 3. (Optional) Install Gradio for Demo Interface
 If you wish to explore the demo interface provided by Janus:
