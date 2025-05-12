@@ -24,8 +24,8 @@ A Streamlit-based application that enables users to query and summarize **PDFs**
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/multimodal-rag-assistant.git
-cd multimodal-rag-assistant
+git clone https://github.com/kit-rak/WebRAG-Assistant.git
+cd WebRAG-Assistant
 ```
 
 ### 2. Install Dependencies
