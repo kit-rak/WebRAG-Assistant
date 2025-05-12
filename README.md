@@ -81,7 +81,7 @@ python demo/app_januspro.py
 
 Access the application at http://localhost:7860.
 
-### Note: Ensure that your system meets the necessary requirements for running DeepSeek Janus efficiently. For optimal performance, a CUDA-capable GPU is recommended.
+Note: Ensure that your system meets the necessary requirements for running DeepSeek Janus efficiently. For optimal performance, a CUDA-capable GPU is recommended.
 
 ## 🧠 How It Works
 
